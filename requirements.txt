@@ -1,4 +1,5 @@
-tensorflow
+pip uninstall tensorflow
+pip install tensorflow==2.15.0
 streamlit
 pandas
 numpy
